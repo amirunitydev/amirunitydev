@@ -2,7 +2,7 @@
 - 👀 I’m interested in game design
 - 🌱 I’m currently learning web development programming 
 - 💞️ I’m looking to collaborate on game design0
-- 📫 How to reach me My Yahoo email
+- 📫 How to reach me : amirdev81@yahoo.com
 
 <!---
 amirunitydev/amirunitydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
